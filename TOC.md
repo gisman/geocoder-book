@@ -27,4 +27,3 @@
 - [06. 자주 묻는 질문](pages/faq.md)
 - [07. 오픈소스 기여](pages/contributing.md)
 - [08. 지원 및 문의](pages/support.md)
-
